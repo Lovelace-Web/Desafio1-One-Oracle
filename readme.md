@@ -33,5 +33,5 @@ Falta de liberdade, não achei intuitiva a logica, já que não considera repeti
 só podemos seguir a risca o que foi proposto pelo exercicio o que me deixa com sensação
 de codigo porco.
 ## ⚙️ Como Executar o Projeto
-LINK: 
+LINK: https://lovelace-web.github.io/Desafio1-One-Oracle/
 
